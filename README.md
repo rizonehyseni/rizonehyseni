@@ -1,4 +1,4 @@
-## Hi, I'm Rizonë   
+## Hi, I'm Rizonë!
 
 **BSc Computer & Software Engineering Student at the University of Prishtina**
 
