@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizonehyseni@gmail.com)
 
 <a href="https://egorthinks.github.io/git-bonsai/?u=rizonehyseni">
-  <img src="output/bonsai.gif" align="center" width="46%" alt="My git-bonsai swaying in the wind">
+  <img src="output/bonsai.gif" align="center" width="56%" alt="My git-bonsai swaying in the wind">
 </a>
 <a href="https://github.com/yalongwastaken/git-koi">
   <img src="koi/koi.gif" align="right" width="46%" alt="My koi, redrawn every night from the day's activity">
