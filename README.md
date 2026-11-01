@@ -11,7 +11,7 @@
   <img src="koi/koi.gif" align="right" width="46%" alt="My koi, redrawn every night from the day's activity">
 </a>
 <picture>
-  <img align="right" width="1%" src="assets/divider.svg" alt="">
+  <img align="right" width="3%" src="assets/divider.svg" alt="">
 </picture>
 <br clear="all">
 <!-- ![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHh2ZjZkbnNzbDNoeHIzbWUyZXo3YW8ybHUzMHRicDloNnU2a3UzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHiGe0ZJd4ecoBkdtO/giphy.gif)
