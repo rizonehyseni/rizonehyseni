@@ -1,4 +1,4 @@
-## Hi, I'm Rizonë!
+### Hi, I'm Rizonë!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-34495E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizone-hyseni-124nbd680)
