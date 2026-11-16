@@ -7,7 +7,7 @@
 <!-- <a href="https://egorthinks.github.io/git-bonsai/?u=rizonehyseni">
   <img src="output/bonsai.gif" align="center" width="50%" alt="My git-bonsai swaying in the wind">
 </a> -->
-<a href="https://github.com/yalongwastaken/git-koi">
+<!-- <a href="https://github.com/yalongwastaken/git-koi">
   <img src="koi/koi.gif" align="center" width="50%" alt="My koi, redrawn every night from the day's activity">
 </a>
 <!-- <picture>
